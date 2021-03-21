@@ -1,0 +1,12 @@
+/Users/patsmith/RiderProjects/Calculator/CalculatorLibrary/bin/Debug/net5.0/CalculatorLibrary.deps.json
+/Users/patsmith/RiderProjects/Calculator/CalculatorLibrary/bin/Debug/net5.0/CalculatorLibrary.dll
+/Users/patsmith/RiderProjects/Calculator/CalculatorLibrary/bin/Debug/net5.0/ref/CalculatorLibrary.dll
+/Users/patsmith/RiderProjects/Calculator/CalculatorLibrary/bin/Debug/net5.0/CalculatorLibrary.pdb
+/Users/patsmith/RiderProjects/Calculator/CalculatorLibrary/obj/Debug/net5.0/CalculatorLibrary.csprojAssemblyReference.cache
+/Users/patsmith/RiderProjects/Calculator/CalculatorLibrary/obj/Debug/net5.0/CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patsmith/RiderProjects/Calculator/CalculatorLibrary/obj/Debug/net5.0/CalculatorLibrary.AssemblyInfoInputs.cache
+/Users/patsmith/RiderProjects/Calculator/CalculatorLibrary/obj/Debug/net5.0/CalculatorLibrary.AssemblyInfo.cs
+/Users/patsmith/RiderProjects/Calculator/CalculatorLibrary/obj/Debug/net5.0/CalculatorLibrary.csproj.CoreCompileInputs.cache
+/Users/patsmith/RiderProjects/Calculator/CalculatorLibrary/obj/Debug/net5.0/CalculatorLibrary.dll
+/Users/patsmith/RiderProjects/Calculator/CalculatorLibrary/obj/Debug/net5.0/ref/CalculatorLibrary.dll
+/Users/patsmith/RiderProjects/Calculator/CalculatorLibrary/obj/Debug/net5.0/CalculatorLibrary.pdb
